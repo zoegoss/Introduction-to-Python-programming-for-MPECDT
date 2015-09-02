@@ -1,26 +1,20 @@
 # Site settings
-title: Introduction to programming for geoscientists
+title: Introduction to Python programming for MPECDT
 
-name1: Gerard Gorman
-address1: Room 4.92, Royal School of Mines
-email1: g.gorman@imperial.ac.uk
-github_username1:  ggorman
-twitter_username1: gerardjgorman
-
-name2: Christian Jacobs
-address2: Room 4.88, Royal School of Mines
-email2: c.jacobs10@imperial.ac.uk
-github_username2:  ctjacobs
-twitter_username2: ctjacobs_uk
+name1: David Ham
+address1: Imperial College London
+email1: david.ham@imperial.ac.uk
+github_username1:  dham
 
 description: > # this means to ignore newlines until "baseurl:"
 
-  This lecture course has two objectives: learn the basic principles of
-  computer programming; become proficient at Python programming as it is
-  currently one of the most commonly used languages in computational science.
+  The objective of this short course is to ensure that everyone in the
+  MPECDT cohort has the core programming skills required to undertake
+  basic computational science, and especially the numerical exercises
+  in term 1 of the CDT.
 
-baseurl: http://ggorman.github.io/Introduction-to-programming-for-geoscientists
-production_url : http://ggorman.github.io/Introduction-to-programming-for-geoscientist
+baseurl: http://dham.github.io/Introduction-to-Python-programming-for-MPECDT
+production_url : http://dham.github.io/Introduction-to-Python-programming-for-MPECDT
 
 # Build settings
 markdown: kramdown
