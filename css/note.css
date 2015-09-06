@@ -1,0 +1,9 @@
+div.note {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
