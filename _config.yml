@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   in term 1 of the CDT.
 
 baseurl: /Introduction-to-Python-programming-for-MPECDT
-production_url : http://dham.github.io/Introduction-to-Python-programming-for-MPECDT
+production_url : http://mpecdt.github.io/Introduction-to-Python-programming-for-MPECDT
 
 # Build settings
 markdown: kramdown
