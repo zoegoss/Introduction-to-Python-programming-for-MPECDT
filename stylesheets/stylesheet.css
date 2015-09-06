@@ -245,3 +245,10 @@ a {
 .cf {
   zoom:1;
 }
+
+div.note {
+    background-color: #87cefa;
+    border: 1px solid #ddd;
+    display: block;
+    padding: 10px;
+}

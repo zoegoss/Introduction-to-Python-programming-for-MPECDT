@@ -18,3 +18,4 @@ production_url : http://mpecdt.github.io/Introduction-to-Python-programming-for-
 
 # Build settings
 markdown: kramdown
+  parse_block_html: true
